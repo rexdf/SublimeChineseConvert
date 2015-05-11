@@ -1,35 +1,35 @@
-# SublimeChineseTradsim
+# SublimeChineseConvert
 
 This is a Sublime Text plugin which implement the functionality of the Open Chinese Convert <https://github.com/BYVoid/OpenCC>. It provides translation between Traditional Chinese and Simplified Chinese.
 
 Support multi selection.
 
-![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseTradsim/readme/screenshot/SublimeChineseTradsim.gif)
+![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseConvert/readme/screenshot/SublimeChineseConvert.gif)
 
-![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseTradsim/readme/screenshot/SublimeChineseTradsim_OSX.gif)
+![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseConvert/readme/screenshot/SublimeChineseConvert_OSX.gif)
 
-![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseTradsim/readme/screenshot/SublimeChineseTradsim_Linux.gif)
+![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseConvert/readme/screenshot/SublimeChineseConvert_Linux.gif)
 
 Install
 -------
 ### Package Control
 - See [here](http://wbond.net/sublime_packages/package_control) for instructions on installation of Package Control
-- In Sublime Text, search for package 'ChineseTradsim'
+- In Sublime Text, search for package 'ChineseOpenConvert'
 
 ### Manual
 Clone this repository into `Sublime Text 3/Packages` using OS-appropriate location:
 
 OSX:
 
-    git clone https://github.com/rexdf/SublimeChineseTradsim.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ChineseTradsim
+    git clone https://github.com/rexdf/SublimeChineseConvert.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ChineseOpenConvert
 
 Windows:
 
-    git clone https://github.com/rexdf/SublimeChineseTradsim.git "%APPDATA%\Sublime Text 3\Packages\ChineseTradsim"
+    git clone https://github.com/rexdf/SublimeChineseConvert.git "%APPDATA%\Sublime Text 3\Packages\ChineseOpenConvert"
 
 Linux:
 
-    git clone https://github.com/rexdf/SublimeChineseTradsim.git ~/.config/sublime-text-3/Packages/ChineseTradsim
+    git clone https://github.com/rexdf/SublimeChineseConvert.git ~/.config/sublime-text-3/Packages/ChineseOpenConvert
 
 Usage
 -------
