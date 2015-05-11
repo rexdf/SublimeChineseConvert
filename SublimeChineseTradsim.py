@@ -111,7 +111,7 @@ class ChineseTradsimCommand(sublime_plugin.TextCommand):
             output_string = cc.convert(input_string)
             self.view.replace(edit, region, output_string)
 
-        self.view.end_edit(edit)
+        # self.view.end_edit(edit)
 
 
 class Tradsim():
