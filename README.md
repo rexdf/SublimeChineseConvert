@@ -6,6 +6,10 @@ Support multi selection.
 
 ![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseTradsim/readme/screenshot/SublimeChineseTradsim.gif)
 
+![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseTradsim/readme/screenshot/SublimeChineseTradsim_OSX.gif)
+
+![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseTradsim/readme/screenshot/SublimeChineseTradsim_Linux.gif)
+
 Install
 -------
 ### Package Control
