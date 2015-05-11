@@ -1,5 +1,5 @@
 '''
-@name     SublimeChineseTradsim
+@name     SublimeChineseConvert
 @package  sublime_plugin
 @author   Rexdf
 
