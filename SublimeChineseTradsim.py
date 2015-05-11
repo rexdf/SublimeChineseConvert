@@ -3,18 +3,16 @@
 @package  sublime_plugin
 @author   Rexdf
 
-This Sublime Text 3 plugin adds Traditional/Simplified Chinese
+This Sublime Text 3 plugin adds Traditional/Simplified Chinese convert
 features to the right click context menu.
 
 Usage: Make a selection (or not), Choose menu
-from the context menu and then enter a password
+from the context menu.
 
 '''
 
 import sublime
 import sublime_plugin
-import base64
-import bisect
 import os
 
 OpenCC = None
@@ -46,12 +44,15 @@ def get_opencc_path():
         path = "OpenCC_OSX.zip"
     return os.path.join(BASE_PATH, path)
 
+
 def get_dict_arch_path():
+    """Return Dict_arch.zip path."""
     arch = sublime.arch()
     if arch == "x32":
         return os.path.join(BASE_PATH, "Dict32.zip")
     elif arch == "x64":
         return os.path.join(BASE_PATH, "Dict64.zip")
+
 
 def get_dict_path():
     """Return Dict.zip path."""
@@ -104,7 +105,7 @@ class ChineseTradsimCommand(sublime_plugin.TextCommand):
             regions.add(sublime.Region(0, view_size))
 
         # support multi selection
-        cc = Tradsim()
+        cc = Tradsim(to)
         for region in regions:
             input_string = self.view.substr(region)
             output_string = cc.convert(input_string)

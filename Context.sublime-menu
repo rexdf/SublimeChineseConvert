@@ -1,0 +1,54 @@
+[{
+  "id": "sublimechinesetradsim",
+  "caption": "繁简体转换",
+  "children": [{
+        "caption": "简体到繁體",
+        "command": "chinese_tradsim",
+        "args":{"to":"s2t.json"}
+    },
+    {
+        "caption": "繁體到简体",
+        "command": "chinese_tradsim",
+        "args":{"to":"t2s.json"}
+    },
+    {
+        "caption": "简体到臺灣正體",
+        "command": "chinese_tradsim",
+        "args":{"to":"s2tw.json"}
+    },
+    {
+        "caption": "臺灣正體到简体",
+        "command": "chinese_tradsim",
+        "args":{"to":"tw2s.json"}
+    },
+    {
+        "caption": "简体到香港繁體（香港小學學習字詞表標準）",
+        "command": "chinese_tradsim",
+        "args":{"to":"s2hk.json"}
+    },
+    {
+        "caption": "香港繁體（香港小學學習字詞表標準）到简体",
+        "command": "chinese_tradsim",
+        "args":{"to":"hk2s.json"}
+    },
+    {
+        "caption": "简体到繁體（臺灣正體標準）並轉換爲臺灣常用詞彙",
+        "command": "chinese_tradsim",
+        "args":{"to":"s2twp.json"}
+    },
+    {
+        "caption": "繁體（臺灣正體標準）到简体并转换为中国大陆常用词汇",
+        "command": "chinese_tradsim",
+        "args":{"to":"tw2sp.json"}
+    },
+    {
+        "caption": "繁體（OpenCC 標準）到臺灣正體",
+        "command": "chinese_tradsim",
+        "args":{"to":"t2tw.json"}
+    },
+    {
+        "caption": "繁體（OpenCC 標準）到香港繁體（香港小學學習字詞表標準）",
+        "command": "chinese_tradsim",
+        "args":{"to":"t2hk.json"}
+    },] 
+}]
