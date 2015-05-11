@@ -1,0 +1,12 @@
+[
+    {
+        "caption": "ChineseTradsim: Translate to Traditional Chinese",
+        "command": "chinese_tradsim",
+        "args":{"to":"Traditional"}
+    },
+    {
+        "caption": "ChineseTradsim: Translate to Simplified Chinese",
+        "command": "chinese_tradsim",
+        "args":{"to":"Simplified"}
+    }
+]
