@@ -19,15 +19,15 @@ Clone this repository into `Sublime Text 3/Packages` using OS-appropriate locati
 
 OSX:
 
-    git clone https://github.com/rexdf/SublimeChineseConvert.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ChineseOpenConvert
+    git clone -b st3 https://github.com/rexdf/SublimeChineseConvert.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/ChineseOpenConvert
 
 Windows:
 
-    git clone https://github.com/rexdf/SublimeChineseConvert.git "%APPDATA%\Sublime Text 3\Packages\ChineseOpenConvert"
+    git clone -b st3 https://github.com/rexdf/SublimeChineseConvert.git "%APPDATA%\Sublime Text 3\Packages\ChineseOpenConvert"
 
 Linux:
 
-    git clone https://github.com/rexdf/SublimeChineseConvert.git ~/.config/sublime-text-3/Packages/ChineseOpenConvert
+    git clone -b st3 https://github.com/rexdf/SublimeChineseConvert.git ~/.config/sublime-text-3/Packages/ChineseOpenConvert
 
 Usage
 -------
