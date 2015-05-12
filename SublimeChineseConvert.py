@@ -93,7 +93,7 @@ def init():
     globals()['OpenCC'] = OpenCC
 
 
-class ChineseTradsimCommand(sublime_plugin.TextCommand):
+class ChineseConvertCommand(sublime_plugin.TextCommand):
 
     def run(self, edit, to):
         view_size = self.view.size()

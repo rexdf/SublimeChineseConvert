@@ -36,16 +36,16 @@ Usage
 
 Press Ctrl+Shift+P to bring up the command input panel. Type in "Chinese" and you will see there are 10 commands provided.
 
-    ChineseTradsim: Simplified Chinese to Traditional Chinese
-    ChineseTradsim: Traditional Chinese to Simplified Chinese
-    ChineseTradsim: Simplified Chinese to Traditional Chinese (Taiwan Standard)
-    ChineseTradsim: Traditional Chinese (Taiwan Standard) to Simplified Chinese
-    ChineseTradsim: Simplified Chinese to Traditional Chinese (Hong Kong Standard)
-    ChineseTradsim: Traditional Chinese (Hong Kong Standard) to Simplified Chinese
-    ChineseTradsim: Simplified Chinese to Traditional Chinese (Taiwan Standard) with Taiwanese idiom
-    ChineseTradsim: Traditional Chinese (Taiwan Standard) to Simplified Chinese with Mainland Chinese idiom
-    ChineseTradsim: Traditional Chinese (OpenCC Standard) to Taiwan Standard
-    ChineseTradsim: Traditional Chinese (OpenCC Standard) to Hong Kong Standard
+    ChineseConvert: Simplified Chinese to Traditional Chinese
+    ChineseConvert: Traditional Chinese to Simplified Chinese
+    ChineseConvert: Simplified Chinese to Traditional Chinese (Taiwan Standard)
+    ChineseConvert: Traditional Chinese (Taiwan Standard) to Simplified Chinese
+    ChineseConvert: Simplified Chinese to Traditional Chinese (Hong Kong Standard)
+    ChineseConvert: Traditional Chinese (Hong Kong Standard) to Simplified Chinese
+    ChineseConvert: Simplified Chinese to Traditional Chinese (Taiwan Standard) with Taiwanese idiom
+    ChineseConvert: Traditional Chinese (Taiwan Standard) to Simplified Chinese with Mainland Chinese idiom
+    ChineseConvert: Traditional Chinese (OpenCC Standard) to Taiwan Standard
+    ChineseConvert: Traditional Chinese (OpenCC Standard) to Hong Kong Standard
 
 Choose the command that you want to run to perform the translation
 
@@ -64,8 +64,8 @@ Right click to get context menu:
 
 Author & Contributors
 ---------------------
+- [Rexdf](https://github.com/rexdf/SublimeChineseConvert)
 - [Carbo Kuo](https://github.com/BYVoid/OpenCC)
-- [Rexdf](https://github.com/rexdf/SublimeChineseTradsim)
 
 ## License
 
