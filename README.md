@@ -49,7 +49,7 @@ Press Ctrl+Shift+P to bring up the command input panel. Type in "Chinese" and yo
 
 Choose the command that you want to run to perform the translation
 
-Right click to get context menu:
+Right click to get context menu or click on Main menu Click on menu Tools/Packages/繁简体转换:
 
     繁简体转换
         简体到繁體
