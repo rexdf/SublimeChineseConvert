@@ -2,8 +2,6 @@
 
 This is a Sublime Text plugin which implement the functionality of the Open Chinese Convert <https://github.com/BYVoid/OpenCC>. It provides translation between Traditional Chinese and Simplified Chinese.
 
-Support multi selection.
-
 ![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseConvert/readme/screenshot/SublimeChineseConvert.gif)
 
 ![screenshot](https://raw.githubusercontent.com/rexdf/SublimeChineseConvert/readme/screenshot/SublimeChineseConvert_OSX.gif)
