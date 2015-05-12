@@ -47,7 +47,7 @@ Press Ctrl+Shift+P to bring up the command input panel. Type in "Chinese" and yo
 
 Choose the command that you want to run to perform the translation
 
-Right click to get context menu or click on Main menu Click on menu Tools/Packages/繁简体转换:
+Right click to get context menu or click on Main menu Tools/Packages/繁简体转换:
 
     繁简体转换
         简体到繁體
@@ -62,7 +62,7 @@ Right click to get context menu or click on Main menu Click on menu Tools/Packag
 
 How to build it?
 ---------------------
-You make a extra [repo](https://github.com/rexdf/OpenCC_Python) for details.
+There is a extra [repo](https://github.com/rexdf/OpenCC_Python) for details.
 
 Author & Contributors
 ---------------------
