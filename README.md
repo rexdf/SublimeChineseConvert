@@ -60,6 +60,10 @@ Right click to get context menu or click on Main menu Click on menu Tools/Packag
         繁體（臺灣正體標準）到简体并转换为中国大陆常用词汇
         繁體（OpenCC 標準）到臺灣正體
 
+How to build it?
+---------------------
+You make a extra [repo](https://github.com/rexdf/OpenCC_Python) for details.
+
 Author & Contributors
 ---------------------
 - [Rexdf](https://github.com/rexdf/SublimeChineseConvert)
